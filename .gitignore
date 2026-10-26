@@ -1,0 +1,5 @@
+*.db
+signal_history.json
+__pycache__/
+.pythonlibs/
+.cache/
